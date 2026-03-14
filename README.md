@@ -1,132 +1,114 @@
-Gabriel Mock
+# Gabriel Mock
 
-Backend Developer | Python | FastAPI | SQL | API Architecture
+Computer Science | StudentBackend Developer | Python | FastAPI | API Architecture
 
-I am an aspiring backend developer focused on building scalable APIs and backend systems. My projects focus on authentication systems, database design, REST APIs, and real world backend architecture.
+I’m a backend focused developer building production style APIs and backend systems. My work focuses on authentication systems, database architecture, scalable API design, and clean backend engineering practices.
 
-I enjoy designing clean backend systems, working with databases, and building APIs that power real applications.
+I enjoy building backend services that power real applications and solving problems around data, security, and performance.
 
-Tech Stack
+---
 
-Languages
+## Tech Stack
 
-Python
+**Languages**
 
-SQL
+* Python
+* SQL
+* Java (learning)
 
-Java (learning)
+**Backend**
 
-Backend
+* FastAPI
+* REST API Development
+* JWT Authentication
+* API Security
 
-FastAPI
+**Databases**
 
-REST API Design
+* PostgreSQL
+* SQLite
+* SQLAlchemy ORM
 
-JWT Authentication
+**Dev Tools**
 
-OAuth Concepts
+* Docker
+* Git
+* GitHub
+* Uvicorn
+* VS Code
 
-Databases
+---
 
-PostgreSQL
+## Featured Projects
 
-SQLite
+### Finance API
 
-SQLAlchemy ORM
-
-Dev Tools
-
-Docker
-
-Git
-
-GitHub
-
-Uvicorn
-
-VS Code
-
-Featured Projects
-Finance API
-
-A personal finance backend API that allows users to securely track income, expenses, and financial summaries.
+Backend REST API for managing personal finances.
 
 Features
 
-User registration and login
+* JWT authentication
+* Income tracking
+* Expense tracking
+* Budget management
+* Financial summaries
+* Swagger documentation
 
-JWT authentication
-
-Income tracking
-
-Expense tracking
-
-Budget management
-
-Financial summaries
-
-Swagger API documentation
-
-Tech Used
-
-FastAPI
-
-SQLAlchemy
-
-SQLite
-
-JWT Authentication
-
-Docker
+Tech Stack
+FastAPI | SQLAlchemy | SQLite | JWT | Docker
 
 Repository
 https://github.com/Gabriel-mock/Finance-api
 
-AlertForge Backend
+---
 
-A backend notification system designed to handle alert processing and delivery.
+### AlertForge Backend
+
+Backend alert processing system designed to handle notifications and background tasks.
 
 Features
 
-User authentication
+* User authentication
+* Alert creation
+* Database persistence
+* Background processing
 
-Alert creation
-
-Background processing
-
-Database persistence
-
-Tech Used
-
-FastAPI
-
-PostgreSQL
-
-JWT Authentication
-
-Docker
+Tech Stack
+FastAPI | PostgreSQL | Docker | JWT
 
 Repository
 https://github.com/Gabriel-mock/alertforge-backend
 
-What I'm Working On
+---
 
-Advanced backend architecture
+## GitHub Stats
 
-Distributed systems concepts
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-mock\&show_icons=true\&theme=tokyonight)
 
-High performance APIs
+---
 
-Database optimization
+## Most Used Languages
 
-Goals
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-mock\&layout=compact\&theme=tokyonight)
 
-My goal is to become a professional backend engineer building scalable systems and APIs that power real world applications.
+---
 
-Contact
+## Current Focus
+
+* Backend system design
+* Scalable API architecture
+* Authentication systems
+* Database optimization
+
+---
+
+## Goals
+
+Become a professional backend engineer building scalable systems and high performance APIs.
+
+---
+
+## Contact
 
 GitHub
 https://github.com/Gabriel-mock
-
-Email
-gabemock1@gmail.com
